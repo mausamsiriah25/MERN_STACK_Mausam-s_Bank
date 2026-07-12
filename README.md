@@ -420,13 +420,47 @@ git push -u origin main
 
 ---
 
-## Screenshots
+<h2 align="center">📸 Project Screenshots</h2>
 
-_Add screenshots of your running application here once deployed, e.g.:_
-- `docs/screenshots/dashboard.png`
-- `docs/screenshots/transfer.png`
-- `docs/screenshots/admin-dashboard.png`
+<p align="center">
+  <img src="docs/Screenshots/home.png" width="48%">
+  <img src="docs/Screenshots/customer-login.png" width="48%">
+</p>
 
+<p align="center">
+  <img src="docs/Screenshots/create_account.png" width="48%">
+  <img src="docs/Screenshots/customer-dashboard1.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/Screenshots/customer-dashboard2.png" width="48%">
+  <img src="docs/Screenshots/customer-dashboard3.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/Screenshots/customer-deposite_money.png" width="48%">
+  <img src="docs/Screenshots/customer-withdraw_money.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/Screenshots/customer-transfer_money.png" width="48%">
+  <img src="docs/Screenshots/admin-login.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/Screenshots/admin-dashboard1.png" width="48%">
+  <img src="docs/Screenshots/admin-dashboard2.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/Screenshots/admin-dashborad3.png" width="48%">
+  <img src="docs/Screenshots/admin-customer_management.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/Screenshots/admin-frezze_account.png" width="48%">
+  <img src="docs/Screenshots/admin-all_tranasctions.png" width="48%">
+</p>
 ---
 
 Built as a MERN stack learning project. Not a real bank — please don't deposit real money. 🙂
